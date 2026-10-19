@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "year": 2014,
+      "rating": 8.7,
+      "likes": 125,
+      "poster": "https://picsum.photos/id/1018/400/600"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "year": 2008,
+      "rating": 9.0,
+      "likes": 210,
+      "poster": "https://picsum.photos/id/1015/400/600"
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "rating": 8.8,
+      "likes": 175,
+      "poster": "https://picsum.photos/id/1025/400/600"
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "year": 2019,
+      "rating": 8.4,
+      "likes": 300,
+      "poster": "https://picsum.photos/id/1040/400/600"
+    },
+    {
+      "id": 5,
+      "title": "Joker",
+      "genre": "Drama",
+      "year": 2019,
+      "rating": 8.4,
+      "likes": 190,
+      "poster": "https://picsum.photos/id/1060/400/600"
+    }
+  ]
+}

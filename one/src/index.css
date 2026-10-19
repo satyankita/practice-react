@@ -1,0 +1,110 @@
+
+*{
+  font-family: sans-serif;
+  color: #111;
+}
+.card{
+  height: 350px;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 15px;
+}
+.top img{
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  border:2px solid #dadada;
+}
+
+.parent{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap ;
+  min-height: 100vh;
+  width: 100%;
+  padding: 5px;
+}
+body{
+  background-color: #111;
+}
+.card .top{
+  display:flex;
+  margin: 5px;
+  padding: 5px;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.top button{
+  display: flex;
+  align-items: center;
+  border: 1px solid #dadada;
+  padding: 4px 8px;
+  font-size: 15px;
+  border-radius: 5px;
+  gap: 3px;
+  background-color: transparent;
+  color: #b1b1b1;
+}
+
+.bottom{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #b1b1b1;
+  padding-top: 15px;
+}
+p{
+  color: #b1b1b1;
+  font-size: 14px;
+}
+.center{
+  margin-top: -90px;
+}
+.center h3{
+  font-size: 20px;
+  font-weight: 500;
+
+}
+h3 span{
+  font-size: small;
+  color:#a09e9e;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.centerin{
+  display: flex;
+}
+.centerin h4{
+  padding: 5px 12px;
+  color: #494848;
+  justify-content: space-between;
+  border: 1px ;
+  margin: 2px;
+  border-radius: 5px;
+  margin-right: 7px;
+  background-color: #ece5e5;
+  font-weight: 400;
+  font-size: medium;
+  font-family: sans-serif;
+}
+h2{
+  font-size: 25px;
+  line-height: 0%;
+}
+
+.bottom button{
+  background-color: #111;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+}
+.bottom p{
+  margin-top: -11px;
+}
+
